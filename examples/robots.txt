@@ -1,0 +1,11 @@
+# Rules for all robots
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+# Allow OpenAI's bot (Session 3, GEO)
+User-agent: GPTBot
+Allow: /
+
+# Sitemap location (Session 2)
+Sitemap: https://yoursite.com/sitemap.xml

@@ -1,0 +1,9 @@
+# ShoeHub Karachi
+> Online store for running and casual shoes in Pakistan.
+
+Note: llms.txt is a proposed convention, not an official standard.
+
+## Pages
+- [Products](https://yoursite.com/shoes.html): All shoes with prices
+- [FAQ](https://yoursite.com/faq.html): Delivery and returns
+- [About](https://yoursite.com/about.html): Who we are and how long we have been selling shoes
